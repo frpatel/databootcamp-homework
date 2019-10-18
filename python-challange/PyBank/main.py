@@ -41,19 +41,21 @@ with open(budget_data, newline = "") as csvfile:
     
 
 print("Financial Analysis")
-print("---------------------")
+print("------------------")
 print(f"Total Months: {str(total_months)}")
 print(f"Total: ${str(total_profit_loss)}")
 print(f"Average Change: ${str(round(avg_change,2))}")
 print(f"Greatest Increase in Profits: {greatest_date} (${str(greatest_increase)})")
 print(f"Greatest Decrease in Profits: {worst_date} (${str(greatest_decrease)})")
 
-output = open("financial_analysis.txt", "w")
-line1 = "Financial Analysis"
-line2 = "---------------------"
-line3 = str(f"Total Months: {str(total_months)}")
-line4 = str(f"Total: ${str(total_profit_loss)}")
-line5 = str(f"Average Change: ${str(round(avg_change,2))}")
-line6 = str(f"Greatest Increase in Profits: {greatest_date} (${str(greatest_increase)})")
-line7 = str(f"Greatest Decrease in Profits: {worst_date} (${str(greatest_decrease)})")
-output.write('{}\n{}\n{}\n{}\n{}\n{}\n{}\n'.format(line1,line2,line3,line4,line5,line6,line7))
+
+with open('financial_analysis.txt', 'w') as output:
+	output.write("Financial Analysis"+"\n")
+	output.write("------------------\n")
+	output.write(f"Total Months:{str(total_months)}\n")
+	output.write(f"Total: ${str(total_profit_loss)}\n")
+	output.write(f"Average Change: ${str(round(avg_change,2))}\n")
+	output.write(f"Greatest Increase in Profits: {str(greatest_date)} (${str(greatest_increase)})\n")
+	output.write(f"Greatest Decrease in Profits: {str(worst_date)} (${str(greatest_decrease)})\n")
+	output.close()
+	
