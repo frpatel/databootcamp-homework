@@ -3,14 +3,12 @@
   font-family: Ubuntu, sans-serif;
 }
 
-
 html,
 body {
   height: 100%;
   padding: 0;
   margin: 0;
 }
-
 
 /* The wrapper contains all of the page's content besides the footer, which is pushed to the bottom of the page */
 .wrapper {
@@ -91,14 +89,6 @@ select {
 
 .margin-top-50 {
   margin-top: 50px;
-}
-
-.right_padding {
-  padding-right: 50px;
-}
-
-.left_padding {
-  padding-left: 50px;
 }
 
 /* The styles for the parallax */
