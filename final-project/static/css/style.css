@@ -1,0 +1,16 @@
+body {
+  padding-left: 0px;
+  padding-right: 0px;
+  margin: 0;
+  font-family: "Open Sans", Sans-serif;
+  font-size: 18px;
+  line-height: 150%;
+  color: #333;
+  background: #B7D9F6;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
