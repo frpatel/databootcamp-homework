@@ -1,5 +1,5 @@
 var WorldCountriesBoundaries  = "../data/countries.geojson";
-var covidData = "https://covid.ourworldindata.org/data/full_data.csv";
+var covidData = "../../data/world_data.csv";
 var naighbourhoods = new L.LayerGroup();
 
 d3.json(WorldCountriesBoundaries, function (geoJson) {
@@ -17,7 +17,8 @@ d3.csv(covidData, function(data) {
     
     data.forEach(function(row){
       //console.log(row)
-      console.log(row.date)
+      console.log(row.date);
+      console.log(row.new_cases);
     });
 
     // for (var i = 0; i < data.length; i++) {
