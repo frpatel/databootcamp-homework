@@ -71,3 +71,8 @@ th.des:after {
   th.aes:after {
     content: "\21E7";
   }
+  
+ img{
+  padding-left: 0px;
+  padding-right: 0px;
+ }

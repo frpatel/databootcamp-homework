@@ -75,6 +75,41 @@ world_total_and_death_and_new_cases_new_death_cases = world_total_and_death_and_
 world_total_and_death_and_new_cases_new_death_cases.to_sql(name='world_daily_data', con=engine, if_exists='replace', index=False)
 world_total_and_death_and_new_cases_new_death_cases.to_csv('data/world_data.csv', index=False)
 
+x_axis = world_total_and_death_and_new_cases_new_death_cases['date'].to_numpy()
+y_axis = world_total_and_death_and_new_cases_new_death_cases['total_cases'].to_numpy()
+plt.figure(figsize=(15,8))
+plt.plot(x_axis, y_axis, marker='o')
+plt.xticks(rotation=90, horizontalalignment='center', fontweight='light', fontsize='large')
+plt.title('Total COVID-19 Cases per Day', fontweight='bold', fontsize='x-large')
+plt.ylabel('Total Cases', fontweight='bold', fontsize='x-large')
+plt.savefig('static/images/total-cases-covid-19.png')
+
+x_axis = world_total_and_death_and_new_cases_new_death_cases['date'].to_numpy()
+y_axis = world_total_and_death_and_new_cases_new_death_cases['total_deaths'].to_numpy()
+plt.figure(figsize=(15,8))
+plt.bar(x_axis, y_axis, alpha= 0.25)
+plt.xticks(rotation=90, horizontalalignment='center', fontweight='light', fontsize='large')
+plt.title('Total Deaths COVID-19 Cases per Day', fontweight='bold', fontsize='x-large')
+plt.ylabel('Total Deaths', fontweight='bold', fontsize='x-large')
+plt.savefig('static/images/total-deaths-covid-19.png')
+
+x_axis = world_total_and_death_and_new_cases_new_death_cases['date'].to_numpy()
+y_axis = world_total_and_death_and_new_cases_new_death_cases['new_cases'].to_numpy()
+plt.figure(figsize=(15,8))
+plt.plot(x_axis, y_axis, marker='o')
+plt.xticks(rotation=90, horizontalalignment='center', fontweight='light', fontsize='large')
+plt.title('New Cases COVID-19 Cases per Day', fontweight='bold', fontsize='x-large')
+plt.ylabel('New Cases', fontweight='bold', fontsize='x-large')
+plt.savefig('static/images/new-cases-covid-19.png')
+
+x_axis = world_total_and_death_and_new_cases_new_death_cases['date'].to_numpy()
+y_axis = world_total_and_death_and_new_cases_new_death_cases['new_deaths'].to_numpy()
+plt.figure(figsize=(15,8))
+plt.plot(x_axis, y_axis, marker='o')
+plt.xticks(rotation=90, horizontalalignment='center', fontweight='light', fontsize='large')
+plt.title('New Deaths COVID-19 Cases per Day', fontweight='bold', fontsize='x-large')
+plt.ylabel('New Deaths', fontweight='bold', fontsize='x-large')
+plt.savefig('static/images/new-deaths-covid-19.png')
 
 full_data = 'https://covid.ourworldindata.org/data/full_data.csv'
 full_data = pd.read_csv(full_data)
@@ -85,6 +120,38 @@ df_full_data = pd.read_csv('data/full_data.csv')
 df_full_data = df_full_data[['date', 'location', 'new_cases', 'new_deaths', 'total_cases', 'total_deaths']]
 df_full_data.to_sql(name='full_data', con=engine, if_exists='replace', index=False)
 
+# current_date = date.today()
+# formatted_date = current_date.strftime("%Y-%m-%d")
+# covid_data_url = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-"+formatted_date+".xlsx"
+
+# df_xls_data = pd.read_excel(covid_data_url)
+# df_xls_data.to_excel('data/COVID-19-geographic-disbtribution-worldwide.xlsx', index=False)
+
+# xls_to_csv = df_xls_data[['DateRep', 'Countries and territories', 'Cases', 'Deaths']]
+# xls_to_csv.to_csv('data/country_wide_data.csv', index=False)
+# world_data_by_country = pd.read_csv('data/country_wide_data.csv')
+
+# total_cases_by_country = world_data_by_country[['Countries and territories','Cases']].groupby('Countries and territories').sum()
+
+# total_case_chart = total_cases_by_country.sort_values(by='Cases', ascending=False).head(10).plot(kind='bar', alpha=0.25)
+# total_case_chart.set_xlabel("Country", fontweight='bold', fontsize='x-large')
+# total_case_chart.set_ylabel("Total # of Cases", fontweight='bold', fontsize='x-large')
+
+# plt.title('Top 10 Countries with Total COVID-19 Cases', fontweight='bold', fontsize='x-large')
+# plt.show()
+# plt.tight_layout()
+# plt.savefig('static/images/top10-countries-covid-19-cases.png')
+
+# total_deaths_by_country = world_data_by_country[['Countries and territories','Deaths']].groupby('Countries and territories').sum()
+
+# total_death_chart = total_deaths_by_country.sort_values(by='Deaths', ascending=False).head(10).plot(kind='bar', alpha=0.25)
+# total_death_chart.set_xlabel("Country", fontweight='bold', fontsize='x-large')
+# total_death_chart.set_ylabel("Total # of Deaths", fontweight='bold', fontsize='x-large')
+
+# plt.title('Top 10 Countries with Total COVID-19 Deaths', fontweight='bold', fontsize='x-large')
+# plt.show()
+# plt.tight_layout()
+# plt.savefig('static/images/top10-countries-covid-19-deaths.png')
 
 app = Flask(__name__)
 conn = psycopg2.connect(user="postgres", password="root123", host="localhost", port="5432", database="COVID")

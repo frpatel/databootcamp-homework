@@ -33,13 +33,12 @@ d3.json("/world_data", function(error, forceData) {
 //d3.json("/world_data").then(function(forceData) {
 
   // Print the forceData
-  console.log(forceData);
+  //console.log(forceData);
 
   // Format the date and cast the force value to a number
   forceData.forEach(function(data) {
     data.date = parseTime(data.date);
     data.total_cases = +data.total_cases;
-    
   });
 
   // Configure a time scale
