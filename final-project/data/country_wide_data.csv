@@ -1,4 +1,5 @@
 DateRep,Countries and territories,Cases,Deaths
+2020-03-26,Afghanistan,33,0
 2020-03-25,Afghanistan,2,0
 2020-03-24,Afghanistan,6,1
 2020-03-23,Afghanistan,10,0
@@ -75,10 +76,12 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Afghanistan,0,0
 2020-01-01,Afghanistan,0,0
 2019-12-31,Afghanistan,0,0
+2020-03-26,Angola,0,0
 2020-03-25,Angola,0,0
 2020-03-24,Angola,0,0
 2020-03-23,Angola,0,0
 2020-03-22,Angola,2,0
+2020-03-26,Albania,23,0
 2020-03-25,Albania,23,1
 2020-03-24,Albania,11,2
 2020-03-23,Albania,13,0
@@ -96,6 +99,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-11,Albania,4,0
 2020-03-10,Albania,4,0
 2020-03-09,Albania,2,0
+2020-03-26,Andorra,24,0
 2020-03-25,Andorra,31,0
 2020-03-24,Andorra,20,0
 2020-03-23,Andorra,25,0
@@ -108,6 +112,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Andorra,3,0
 2020-03-14,Andorra,1,0
 2020-03-03,Andorra,1,0
+2020-03-26,Argentina,115,2
 2020-03-25,Argentina,86,2
 2020-03-24,Argentina,35,0
 2020-03-23,Argentina,41,0
@@ -118,19 +123,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-18,Argentina,14,0
 2020-03-17,Argentina,9,0
 2020-03-16,Argentina,11,0
-2020-03-15,Argentina,11,0
-2020-03-14,Argentina,3,1
-2020-03-13,Argentina,12,0
-2020-03-11,Argentina,7,0
-2020-03-09,Argentina,3,0
-2020-03-08,Argentina,1,1
-2020-03-07,Argentina,6,0
+2020-03-26,Antigua_and_Barbuda,0,0
 2020-03-25,Antigua_and_Barbuda,2,0
 2020-03-24,Antigua_and_Barbuda,0,0
 2020-03-23,Antigua_and_Barbuda,0,0
 2020-03-22,Antigua_and_Barbuda,0,0
 2020-03-21,Antigua_and_Barbuda,0,0
 2020-03-15,Antigua_and_Barbuda,1,0
+2020-03-26,Algeria,33,0
 2020-03-25,Algeria,42,0
 2020-03-24,Algeria,87,2
 2020-03-23,Algeria,8,5
@@ -212,8 +212,16 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Algeria,0,0
 2020-01-01,Algeria,0,0
 2019-12-31,Algeria,0,0
+2020-03-15,Argentina,11,0
+2020-03-14,Argentina,3,1
+2020-03-13,Argentina,12,0
+2020-03-11,Argentina,7,0
+2020-03-09,Argentina,3,0
+2020-03-08,Argentina,1,1
+2020-03-07,Argentina,6,0
 2020-03-06,Argentina,1,0
 2020-03-04,Argentina,1,0
+2020-03-26,Armenia,25,0
 2020-03-25,Armenia,71,0
 2020-03-24,Armenia,4,0
 2020-03-23,Armenia,30,0
@@ -291,6 +299,12 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Armenia,0,0
 2020-01-01,Armenia,0,0
 2019-12-31,Armenia,0,0
+2020-03-26,Aruba,2,0
+2020-03-25,Aruba,5,0
+2020-03-24,Aruba,8,0
+2020-03-20,Aruba,2,0
+2020-03-13,Aruba,2,0
+2020-03-26,Australia,0,0
 2020-03-25,Australia,600,1
 2020-03-24,Australia,114,0
 2020-03-23,Australia,611,0
@@ -377,6 +391,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Australia,0,0
 2020-01-01,Australia,0,0
 2019-12-31,Australia,0,0
+2020-03-26,Austria,606,4
 2020-03-25,Austria,796,5
 2020-03-24,Austria,855,9
 2020-03-23,Austria,607,8
@@ -463,6 +478,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Austria,0,0
 2020-01-01,Austria,0,0
 2019-12-31,Austria,0,0
+2020-03-26,Azerbaijan,6,1
 2020-03-25,Azerbaijan,15,0
 2020-03-24,Azerbaijan,7,0
 2020-03-23,Azerbaijan,12,0
@@ -542,6 +558,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Azerbaijan,0,0
 2020-01-01,Azerbaijan,0,0
 2019-12-31,Azerbaijan,0,0
+2020-03-26,Bahamas,1,0
 2020-03-25,Bahamas,0,0
 2020-03-24,Bahamas,0,0
 2020-03-23,Bahamas,0,0
@@ -550,6 +567,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-20,Bahamas,2,0
 2020-03-17,Bahamas,0,0
 2020-03-16,Bahamas,1,0
+2020-03-26,Bahrain,29,0
 2020-03-25,Bahrain,51,1
 2020-03-24,Bahrain,5,0
 2020-03-23,Bahrain,28,1
@@ -635,6 +653,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Bahrain,0,0
 2020-01-01,Bahrain,0,0
 2019-12-31,Bahrain,0,0
+2020-03-26,Bangladesh,0,1
 2020-03-25,Bangladesh,6,1
 2020-03-24,Bangladesh,6,0
 2020-03-23,Bangladesh,3,1
@@ -646,6 +665,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Bangladesh,2,0
 2020-03-15,Bangladesh,0,0
 2020-03-09,Bangladesh,3,0
+2020-03-26,Barbados,0,0
 2020-03-25,Barbados,1,0
 2020-03-24,Barbados,0,0
 2020-03-23,Barbados,3,0
@@ -654,6 +674,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-20,Barbados,1,0
 2020-03-19,Barbados,0,0
 2020-03-18,Barbados,1,0
+2020-03-26,Belarus,5,0
 2020-03-25,Belarus,0,0
 2020-03-24,Belarus,5,0
 2020-03-23,Belarus,0,0
@@ -732,6 +753,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Belarus,0,0
 2020-01-01,Belarus,0,0
 2019-12-31,Belarus,0,0
+2020-03-26,Belgium,668,56
 2020-03-25,Belgium,526,34
 2020-03-24,Belgium,342,13
 2020-03-23,Belgium,586,8
@@ -818,8 +840,10 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Belgium,0,0
 2020-01-01,Belgium,0,0
 2019-12-31,Belgium,0,0
+2020-03-26,Belize,1,0
 2020-03-25,Belize,0,0
 2020-03-24,Belize,1,0
+2020-03-26,Benin,0,0
 2020-03-25,Benin,0,0
 2020-03-24,Benin,3,0
 2020-03-23,Benin,0,0
@@ -829,12 +853,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-19,Benin,0,0
 2020-03-18,Benin,0,0
 2020-03-17,Benin,1,0
+2020-03-26,Bermuda,0,0
 2020-03-25,Bermuda,0,0
 2020-03-24,Bermuda,0,0
 2020-03-23,Bermuda,4,0
 2020-03-22,Bermuda,0,0
 2020-03-21,Bermuda,0,0
 2020-03-20,Bermuda,2,0
+2020-03-26,Bhutan,1,0
 2020-03-25,Bhutan,0,0
 2020-03-24,Bhutan,0,0
 2020-03-23,Bhutan,0,0
@@ -847,6 +873,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-15,Bhutan,0,0
 2020-03-13,Bhutan,0,0
 2020-03-06,Bhutan,1,0
+2020-03-26,Bolivia,7,0
 2020-03-25,Bolivia,4,0
 2020-03-24,Bolivia,1,0
 2020-03-23,Bolivia,7,0
@@ -860,6 +887,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-14,Bolivia,7,0
 2020-03-13,Bolivia,1,0
 2020-03-12,Bolivia,2,0
+2020-03-26,Bosnia_and_Herzegovina,19,1
 2020-03-25,Bosnia_and_Herzegovina,33,1
 2020-03-24,Bosnia_and_Herzegovina,4,0
 2020-03-23,Bosnia_and_Herzegovina,33,0
@@ -873,6 +901,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-13,Bosnia_and_Herzegovina,0,0
 2020-03-12,Bosnia_and_Herzegovina,1,0
 2020-03-06,Bosnia_and_Herzegovina,2,0
+2020-03-26,Brazil,232,11
 2020-03-25,Brazil,310,12
 2020-03-24,Brazil,345,9
 2020-03-23,Brazil,418,7
@@ -956,6 +985,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Brazil,0,0
 2020-01-01,Brazil,0,0
 2019-12-31,Brazil,0,0
+2020-03-26,Brunei_Darussalam,3,0
 2020-03-25,Brunei_Darussalam,13,0
 2020-03-24,Brunei_Darussalam,3,0
 2020-03-23,Brunei_Darussalam,5,0
@@ -971,6 +1001,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-13,Brunei_Darussalam,14,0
 2020-03-12,Brunei_Darussalam,10,0
 2020-03-10,Brunei_Darussalam,1,0
+2020-03-26,Bulgaria,22,0
 2020-03-25,Bulgaria,19,0
 2020-03-24,Bulgaria,16,0
 2020-03-23,Bulgaria,22,0
@@ -987,6 +1018,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-12,Bulgaria,3,1
 2020-03-09,Bulgaria,2,0
 2020-03-08,Bulgaria,2,0
+2020-03-26,Burkina_Faso,15,0
 2020-03-25,Burkina_Faso,24,0
 2020-03-24,Burkina_Faso,11,0
 2020-03-23,Burkina_Faso,0,0
@@ -1000,6 +1032,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-15,Burkina_Faso,1,0
 2020-03-12,Burkina_Faso,0,0
 2020-03-11,Burkina_Faso,2,0
+2020-03-26,Cambodia,5,0
 2020-03-25,Cambodia,4,0
 2020-03-24,Cambodia,1,0
 2020-03-23,Cambodia,35,0
@@ -1077,6 +1110,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Cambodia,0,0
 2020-01-01,Cambodia,0,0
 2019-12-31,Cambodia,0,0
+2020-03-26,Cameroon,0,0
 2020-03-25,Cameroon,16,1
 2020-03-24,Cameroon,29,0
 2020-03-23,Cameroon,0,0
@@ -1090,14 +1124,15 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-15,Cameroon,1,0
 2020-03-09,Cameroon,1,0
 2020-03-07,Cameroon,1,0
+2020-03-26,Canada,1426,8
 2020-03-25,Canada,313,3
 2020-03-24,Canada,216,6
 2020-03-23,Canada,199,5
 2020-03-22,Canada,260,1
 2020-03-21,Canada,125,2
-2020-03-20,CANADA,156,1
-2020-03-19,CANADA,121,1
-2020-03-18,CANADA,145,4
+2020-03-20,Canada,156,1
+2020-03-19,Canada,121,1
+2020-03-18,Canada,145,4
 2020-03-17,Canada,120,3
 2020-03-16,Canada,60,0
 2020-03-15,Canada,68,0
@@ -1176,6 +1211,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Canada,0,0
 2020-01-01,Canada,0,0
 2019-12-31,Canada,0,0
+2020-03-26,Cape_Verde,1,0
 2020-03-25,Cape_Verde,0,1
 2020-03-24,Cape_Verde,0,0
 2020-03-23,Cape_Verde,0,0
@@ -1245,12 +1281,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Cases_on_an_international_conveyance_Japan,0,0
 2020-01-01,Cases_on_an_international_conveyance_Japan,0,0
 2019-12-31,Cases_on_an_international_conveyance_Japan,0,0
+2020-03-26,Cayman_Islands,0,0
 2020-03-25,Cayman_Islands,0,0
 2020-03-24,Cayman_Islands,0,0
 2020-03-23,Cayman_Islands,0,0
 2020-03-22,Cayman_Islands,0,0
 2020-03-21,Cayman_Islands,2,1
 2020-03-20,Cayman_Islands,1,0
+2020-03-26,Central_African_Republic,0,0
 2020-03-25,Central_African_Republic,0,0
 2020-03-24,Central_African_Republic,0,0
 2020-03-23,Central_African_Republic,1,0
@@ -1261,12 +1299,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-18,Central_African_Republic,0,0
 2020-03-17,Central_African_Republic,0,0
 2020-03-16,Central_African_Republic,1,0
+2020-03-26,Chad,0,0
 2020-03-25,Chad,1,0
 2020-03-24,Chad,0,0
 2020-03-23,Chad,0,0
 2020-03-22,Chad,1,0
 2020-03-21,Chad,0,0
 2020-03-20,Chad,1,0
+2020-03-26,Chile,220,1
 2020-03-25,Chile,176,0
 2020-03-24,Chile,114,1
 2020-03-23,Chile,95,1
@@ -1288,6 +1328,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-06,Chile,1,0
 2020-03-05,Chile,2,0
 2020-03-04,Chile,1,0
+2020-03-26,China,121,6
 2020-03-25,China,99,4
 2020-03-24,China,99,7
 2020-03-23,China,150,9
@@ -1374,8 +1415,9 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,China,0,0
 2020-01-01,China,0,0
 2019-12-31,China,27,0
-2020-03-25,Colombia,0,0
-2020-03-24,Colombia,0,1
+2020-03-26,Colombia,92,1
+2020-03-25,Colombia,72,0
+2020-03-24,Colombia,71,1
 2020-03-23,Colombia,25,1
 2020-03-22,Colombia,52,1
 2020-03-21,Colombia,30,0
@@ -1389,6 +1431,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-12,Colombia,6,0
 2020-03-10,Colombia,2,0
 2020-03-07,Colombia,1,0
+2020-03-26,Congo,0,0
 2020-03-25,Congo,0,0
 2020-03-24,Congo,0,0
 2020-03-23,Congo,0,0
@@ -1399,6 +1442,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-18,Congo,0,0
 2020-03-17,Congo,0,0
 2020-03-16,Congo,1,0
+2020-03-26,Costa_Rica,24,0
 2020-03-25,Costa_Rica,19,0
 2020-03-24,Costa_Rica,24,0
 2020-03-23,Costa_Rica,17,0
@@ -1417,6 +1461,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-10,Costa_Rica,4,0
 2020-03-09,Costa_Rica,4,0
 2020-03-07,Costa_Rica,1,0
+2020-03-26,Cote_dIvoire,7,0
 2020-03-25,Cote_dIvoire,48,0
 2020-03-24,Cote_dIvoire,0,0
 2020-03-23,Cote_dIvoire,8,0
@@ -1429,6 +1474,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Cote_dIvoire,0,0
 2020-03-15,Cote_dIvoire,3,0
 2020-03-12,Cote_dIvoire,1,0
+2020-03-26,Croatia,36,0
 2020-03-25,Croatia,76,1
 2020-03-24,Croatia,71,0
 2020-03-23,Croatia,29,0
@@ -1512,6 +1558,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Croatia,0,0
 2020-01-01,Croatia,0,0
 2019-12-31,Croatia,0,0
+2020-03-26,Cuba,9,0
 2020-03-25,Cuba,8,0
 2020-03-24,Cuba,5,0
 2020-03-23,Cuba,10,0
@@ -1523,6 +1570,11 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-15,Cuba,0,0
 2020-03-14,Cuba,1,0
 2020-03-12,Cuba,3,0
+2020-03-26,Curaçao,0,1
+2020-03-24,Curaçao,3,0
+2020-03-20,Curaçao,2,0
+2020-03-13,Curaçao,1,0
+2020-03-26,Cyprus,8,0
 2020-03-25,Cyprus,8,3
 2020-03-24,Cyprus,21,0
 2020-03-23,Cyprus,11,0
@@ -1537,6 +1589,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-14,Cyprus,8,0
 2020-03-12,Cyprus,4,0
 2020-03-10,Cyprus,2,0
+2020-03-26,Czech_Republic,260,3
 2020-03-25,Czech_Republic,158,2
 2020-03-24,Czech_Republic,71,0
 2020-03-23,Czech_Republic,170,1
@@ -1623,6 +1676,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Czech_Republic,0,0
 2020-01-01,Czech_Republic,0,0
 2019-12-31,Czech_Republic,0,0
+2020-03-26,Democratic_Republic_of_the_Congo,0,0
 2020-03-25,Democratic_Republic_of_the_Congo,19,1
 2020-03-24,Democratic_Republic_of_the_Congo,0,0
 2020-03-23,Democratic_Republic_of_the_Congo,3,1
@@ -1636,6 +1690,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-15,Democratic_Republic_of_the_Congo,0,0
 2020-03-14,Democratic_Republic_of_the_Congo,1,0
 2020-03-11,Democratic_Republic_of_the_Congo,1,0
+2020-03-26,Denmark,133,2
 2020-03-25,Denmark,131,8
 2020-03-24,Denmark,65,11
 2020-03-23,Denmark,69,0
@@ -1722,6 +1777,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Denmark,0,0
 2020-01-01,Denmark,0,0
 2019-12-31,Denmark,0,0
+2020-03-26,Djibouti,9,0
 2020-03-25,Djibouti,0,0
 2020-03-24,Djibouti,2,0
 2020-03-23,Djibouti,0,0
@@ -1729,9 +1785,11 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-21,Djibouti,0,0
 2020-03-20,Djibouti,0,0
 2020-03-19,Djibouti,1,0
+2020-03-26,Dominica,5,0
 2020-03-25,Dominica,1,0
 2020-03-24,Dominica,0,0
 2020-03-23,Dominica,1,0
+2020-03-26,Dominican_Republic,80,4
 2020-03-25,Dominican_Republic,67,3
 2020-03-24,Dominican_Republic,43,0
 2020-03-23,Dominican_Republic,90,0
@@ -1809,6 +1867,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Dominican_Republic,0,0
 2020-01-01,Dominican_Republic,0,0
 2019-12-31,Dominican_Republic,0,0
+2020-03-26,Ecuador,129,2
 2020-03-25,Ecuador,101,9
 2020-03-24,Ecuador,192,4
 2020-03-23,Ecuador,257,7
@@ -1890,6 +1949,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Ecuador,0,0
 2020-01-01,Ecuador,0,0
 2019-12-31,Ecuador,0,0
+2020-03-26,Egypt,76,2
 2020-03-25,Egypt,39,5
 2020-03-24,Egypt,33,4
 2020-03-23,Egypt,9,2
@@ -1972,6 +2032,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Egypt,0,0
 2020-01-01,Egypt,0,0
 2019-12-31,Egypt,0,0
+2020-03-26,El_Salvador,4,0
 2020-03-25,El_Salvador,4,0
 2020-03-24,El_Salvador,2,0
 2020-03-23,El_Salvador,0,0
@@ -1979,6 +2040,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-21,El_Salvador,2,0
 2020-03-20,El_Salvador,0,0
 2020-03-19,El_Salvador,1,0
+2020-03-26,Equatorial_Guinea,2,0
 2020-03-25,Equatorial_Guinea,0,0
 2020-03-24,Equatorial_Guinea,3,0
 2020-03-23,Equatorial_Guinea,0,0
@@ -1990,10 +2052,12 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Equatorial_Guinea,0,0
 2020-03-16,Equatorial_Guinea,0,0
 2020-03-15,Equatorial_Guinea,1,0
+2020-03-26,Eritrea,3,0
 2020-03-25,Eritrea,0,0
 2020-03-24,Eritrea,0,0
 2020-03-23,Eritrea,0,0
 2020-03-22,Eritrea,1,0
+2020-03-26,Estonia,35,1
 2020-03-25,Estonia,17,0
 2020-03-24,Estonia,26,0
 2020-03-23,Estonia,20,0
@@ -2075,6 +2139,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Estonia,0,0
 2020-01-01,Estonia,0,0
 2019-12-31,Estonia,0,0
+2020-03-26,Eswatini,0,0
 2020-03-25,Eswatini,0,0
 2020-03-24,Eswatini,0,0
 2020-03-23,Eswatini,3,0
@@ -2086,6 +2151,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Eswatini,0,0
 2020-03-16,Eswatini,0,0
 2020-03-15,Eswatini,1,0
+2020-03-26,Ethiopia,1,0
 2020-03-25,Ethiopia,0,0
 2020-03-24,Ethiopia,0,0
 2020-03-23,Ethiopia,2,0
@@ -2098,18 +2164,21 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Ethiopia,3,0
 2020-03-15,Ethiopia,0,0
 2020-03-14,Ethiopia,1,0
+2020-03-26,Faroe_Islands,10,0
 2020-03-25,Faroe_Islands,4,0
 2020-03-24,Faroe_Islands,3,0
 2020-03-23,Faroe_Islands,23,0
 2020-03-22,Faroe_Islands,12,0
 2020-03-21,Faroe_Islands,8,0
 2020-03-20,Faroe_Islands,72,0
+2020-03-26,Fiji,0,0
 2020-03-25,Fiji,1,0
 2020-03-24,Fiji,1,0
 2020-03-23,Fiji,1,0
 2020-03-22,Fiji,1,0
 2020-03-21,Fiji,0,0
 2020-03-20,Fiji,1,0
+2020-03-26,Finland,88,2
 2020-03-25,Finland,92,0
 2020-03-24,Finland,74,0
 2020-03-23,Finland,105,0
@@ -2191,6 +2260,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Finland,0,0
 2020-01-01,Finland,0,0
 2019-12-31,Finland,0,0
+2020-03-26,France,2931,231
 2020-03-25,France,2446,240
 2020-03-24,France,3838,186
 2020-03-23,France,1559,112
@@ -2277,6 +2347,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,France,0,0
 2020-01-01,France,0,0
 2019-12-31,France,0,0
+2020-03-26,French_Polynesia,0,0
 2020-03-25,French_Polynesia,2,0
 2020-03-24,French_Polynesia,5,0
 2020-03-23,French_Polynesia,1,0
@@ -2284,6 +2355,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-21,French_Polynesia,12,0
 2020-03-20,French_Polynesia,0,0
 2020-03-19,French_Polynesia,3,0
+2020-03-26,Gabon,0,0
 2020-03-25,Gabon,0,0
 2020-03-24,Gabon,0,0
 2020-03-23,Gabon,3,0
@@ -2296,6 +2368,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Gabon,0,0
 2020-03-15,Gabon,0,0
 2020-03-13,Gabon,1,0
+2020-03-26,Gambia,0,0
 2020-03-25,Gambia,1,0
 2020-03-24,Gambia,1,1
 2020-03-23,Gambia,0,0
@@ -2304,6 +2377,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-20,Gambia,0,0
 2020-03-19,Gambia,0,0
 2020-03-18,Gambia,1,0
+2020-03-26,Georgia,3,0
 2020-03-25,Georgia,9,0
 2020-03-24,Georgia,7,0
 2020-03-23,Georgia,5,0
@@ -2387,6 +2461,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Georgia,0,0
 2020-01-01,Georgia,0,0
 2019-12-31,Georgia,0,0
+2020-03-26,Germany,4954,49
 2020-03-25,Germany,2342,23
 2020-03-24,Germany,4438,32
 2020-03-23,Germany,3311,27
@@ -2473,6 +2548,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Germany,0,0
 2020-01-01,Germany,0,0
 2019-12-31,Germany,0,0
+2020-03-26,Ghana,15,1
 2020-03-25,Ghana,26,0
 2020-03-24,Ghana,3,1
 2020-03-23,Ghana,3,0
@@ -2485,12 +2561,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Ghana,0,0
 2020-03-15,Ghana,0,0
 2020-03-13,Ghana,2,0
+2020-03-26,Gibraltar,11,0
 2020-03-25,Gibraltar,0,0
 2020-03-24,Gibraltar,0,0
 2020-03-23,Gibraltar,5,0
 2020-03-22,Gibraltar,0,0
 2020-03-21,Gibraltar,0,0
 2020-03-20,Gibraltar,10,0
+2020-03-26,Greece,78,2
 2020-03-25,Greece,48,3
 2020-03-24,Greece,71,2
 2020-03-23,Greece,94,2
@@ -2575,15 +2653,18 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Greece,0,0
 2020-01-01,Greece,0,0
 2019-12-31,Greece,0,0
+2020-03-26,Greenland,1,0
 2020-03-25,Greenland,0,0
 2020-03-24,Greenland,2,0
 2020-03-23,Greenland,0,0
 2020-03-22,Greenland,0,0
 2020-03-21,Greenland,0,0
 2020-03-20,Greenland,2,0
+2020-03-26,Grenada,0,0
 2020-03-25,Grenada,0,0
 2020-03-24,Grenada,0,0
 2020-03-23,Grenada,1,0
+2020-03-26,Guam,5,0
 2020-03-25,Guam,3,0
 2020-03-24,Guam,2,0
 2020-03-23,Guam,12,0
@@ -2591,6 +2672,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-21,Guam,2,0
 2020-03-20,Guam,9,0
 2020-03-19,Guam,3,0
+2020-03-26,Guatemala,3,0
 2020-03-25,Guatemala,1,0
 2020-03-24,Guatemala,1,0
 2020-03-23,Guatemala,2,0
@@ -2602,12 +2684,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Guatemala,5,0
 2020-03-16,Guatemala,0,1
 2020-03-15,Guatemala,1,0
+2020-03-26,Guernsey,7,0
 2020-03-25,Guernsey,3,0
 2020-03-24,Guernsey,3,0
 2020-03-23,Guernsey,16,0
 2020-03-22,Guernsey,0,0
 2020-03-21,Guernsey,0,0
 2020-03-20,Guernsey,1,0
+2020-03-26,Guinea,0,0
 2020-03-25,Guinea,2,0
 2020-03-24,Guinea,0,0
 2020-03-23,Guinea,0,0
@@ -2619,6 +2703,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Guinea,0,0
 2020-03-15,Guinea,0,0
 2020-03-14,Guinea,1,0
+2020-03-26,Guyana,0,0
 2020-03-25,Guyana,0,0
 2020-03-24,Guyana,0,0
 2020-03-23,Guyana,0,0
@@ -2630,12 +2715,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Guyana,0,0
 2020-03-16,Guyana,3,0
 2020-03-13,Guyana,1,1
+2020-03-26,Haiti,1,0
 2020-03-25,Haiti,2,0
 2020-03-24,Haiti,3,0
 2020-03-23,Haiti,0,0
 2020-03-22,Haiti,0,0
 2020-03-21,Haiti,0,0
 2020-03-20,Haiti,2,0
+2020-03-26,Holy_See,0,0
 2020-03-25,Holy_See,0,0
 2020-03-24,Holy_See,0,0
 2020-03-23,Holy_See,0,0
@@ -2647,6 +2734,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Holy_See,0,0
 2020-03-16,Holy_See,0,0
 2020-03-07,Holy_See,1,0
+2020-03-26,Honduras,16,0
 2020-03-25,Honduras,6,0
 2020-03-24,Honduras,3,0
 2020-03-23,Honduras,1,0
@@ -2659,11 +2747,12 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Honduras,3,0
 2020-03-14,Honduras,1,0
 2020-03-12,Honduras,2,0
+2020-03-26,Hungary,35,0
 2020-03-25,Hungary,39,2
 2020-03-24,Hungary,20,1
 2020-03-23,Hungary,36,3
-2020-03-22,Hungary,46,0
-2020-03-21,Hungary,0,3
+2020-03-22,Hungary,28,0
+2020-03-21,Hungary,18,3
 2020-03-20,Hungary,12,0
 2020-03-19,Hungary,23,0
 2020-03-18,Hungary,0,0
@@ -2679,6 +2768,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-08,Hungary,3,0
 2020-03-07,Hungary,2,0
 2020-03-05,Hungary,2,0
+2020-03-26,Iceland,89,0
 2020-03-25,Iceland,60,0
 2020-03-24,Iceland,20,1
 2020-03-23,Iceland,95,0
@@ -2765,6 +2855,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Iceland,0,0
 2020-01-01,Iceland,0,0
 2019-12-31,Iceland,0,0
+2020-03-26,India,87,4
 2020-03-25,India,70,0
 2020-03-24,India,53,2
 2020-03-23,India,119,3
@@ -2850,6 +2941,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,India,0,0
 2020-01-01,India,0,0
 2019-12-31,India,0,0
+2020-03-26,Indonesia,104,3
 2020-03-25,Indonesia,107,6
 2020-03-24,Indonesia,65,1
 2020-03-23,Indonesia,64,10
@@ -2929,6 +3021,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Indonesia,0,0
 2020-01-01,Indonesia,0,0
 2019-12-31,Indonesia,0,0
+2020-03-26,Iran,2206,143
 2020-03-25,Iran,1762,122
 2020-03-24,Iran,1411,127
 2020-03-23,Iran,1028,129
@@ -3015,6 +3108,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Iran,0,0
 2020-01-01,Iran,0,0
 2019-12-31,Iran,0,0
+2020-03-26,Iraq,30,2
 2020-03-25,Iraq,50,4
 2020-03-24,Iraq,33,3
 2020-03-23,Iraq,19,3
@@ -3099,6 +3193,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Iraq,0,0
 2020-01-01,Iraq,0,0
 2019-12-31,Iraq,0,0
+2020-03-26,Ireland,235,2
 2020-03-25,Ireland,204,1
 2020-03-24,Ireland,219,2
 2020-03-23,Ireland,121,1
@@ -3183,11 +3278,13 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Ireland,0,0
 2020-01-01,Ireland,0,0
 2019-12-31,Ireland,0,0
+2020-03-26,Isle_of_Man,0,0
 2020-03-25,Isle_of_Man,10,0
 2020-03-24,Isle_of_Man,11,0
 2020-03-23,Isle_of_Man,0,0
 2020-03-22,Isle_of_Man,1,0
 2020-03-21,Isle_of_Man,1,0
+2020-03-26,Israel,439,2
 2020-03-25,Israel,488,2
 2020-03-24,Israel,371,0
 2020-03-23,Israel,188,0
@@ -3271,6 +3368,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Israel,0,0
 2020-01-01,Israel,0,0
 2019-12-31,Israel,0,0
+2020-03-26,Italy,5210,685
 2020-03-25,Italy,5249,743
 2020-03-24,Italy,4789,601
 2020-03-23,Italy,5560,649
@@ -3357,6 +3455,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Italy,0,0
 2020-01-01,Italy,0,0
 2019-12-31,Italy,0,0
+2020-03-26,Jamaica,4,0
 2020-03-25,Jamaica,2,1
 2020-03-24,Jamaica,0,0
 2020-03-23,Jamaica,0,0
@@ -3370,6 +3469,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-14,Jamaica,2,0
 2020-03-13,Jamaica,4,0
 2020-03-12,Jamaica,2,0
+2020-03-26,Japan,75,2
 2020-03-25,Japan,65,1
 2020-03-24,Japan,39,1
 2020-03-23,Japan,43,5
@@ -3456,12 +3556,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Japan,0,0
 2020-01-01,Japan,0,0
 2019-12-31,Japan,0,0
+2020-03-26,Jersey,0,0
 2020-03-25,Jersey,0,0
 2020-03-24,Jersey,3,0
 2020-03-23,Jersey,3,0
 2020-03-22,Jersey,0,0
 2020-03-21,Jersey,7,0
 2020-03-20,Jersey,5,0
+2020-03-26,Jordan,26,0
 2020-03-25,Jordan,15,0
 2020-03-24,Jordan,13,0
 2020-03-23,Jordan,15,0
@@ -3475,6 +3577,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-15,Jordan,0,0
 2020-03-08,Jordan,0,0
 2020-03-03,Jordan,1,0
+2020-03-26,Kazakhstan,9,0
 2020-03-25,Kazakhstan,17,0
 2020-03-24,Kazakhstan,2,0
 2020-03-23,Kazakhstan,4,0
@@ -3486,6 +3589,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Kazakhstan,2,0
 2020-03-16,Kazakhstan,3,0
 2020-03-15,Kazakhstan,6,0
+2020-03-26,Kenya,0,0
 2020-03-25,Kenya,9,0
 2020-03-24,Kenya,1,0
 2020-03-23,Kenya,8,0
@@ -3498,6 +3602,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Kenya,2,0
 2020-03-15,Kenya,0,0
 2020-03-14,Kenya,1,0
+2020-03-26,Kosovo,8,0
 2020-03-25,Kosovo,2,0
 2020-03-24,Kosovo,30,0
 2020-03-23,Kosovo,7,1
@@ -3508,6 +3613,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-18,Kosovo,17,0
 2020-03-17,Kosovo,0,0
 2020-03-16,Kosovo,2,0
+2020-03-26,Kuwait,4,0
 2020-03-25,Kuwait,2,0
 2020-03-24,Kuwait,1,0
 2020-03-23,Kuwait,12,0
@@ -3591,6 +3697,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Kuwait,0,0
 2020-01-01,Kuwait,0,0
 2019-12-31,Kuwait,0,0
+2020-03-26,Kyrgyzstan,2,0
 2020-03-25,Kyrgyzstan,26,0
 2020-03-24,Kyrgyzstan,2,0
 2020-03-23,Kyrgyzstan,0,0
@@ -3598,7 +3705,9 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-21,Kyrgyzstan,0,0
 2020-03-20,Kyrgyzstan,3,0
 2020-03-19,Kyrgyzstan,3,0
+2020-03-26,Laos,0,0
 2020-03-25,Laos,2,0
+2020-03-26,Latvia,24,0
 2020-03-25,Latvia,17,0
 2020-03-24,Latvia,41,0
 2020-03-23,Latvia,15,0
@@ -3618,6 +3727,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-09,Latvia,1,0
 2020-03-08,Latvia,1,0
 2020-03-03,Latvia,1,0
+2020-03-26,Lebanon,29,0
 2020-03-25,Lebanon,37,0
 2020-03-24,Lebanon,19,0
 2020-03-23,Lebanon,18,0
@@ -3700,6 +3810,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Lebanon,0,0
 2020-01-01,Lebanon,0,0
 2019-12-31,Lebanon,0,0
+2020-03-26,Liberia,0,0
 2020-03-25,Liberia,0,0
 2020-03-24,Liberia,0,0
 2020-03-23,Liberia,0,0
@@ -3709,7 +3820,9 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-19,Liberia,0,0
 2020-03-18,Liberia,1,0
 2020-03-17,Liberia,1,0
+2020-03-26,Libya,0,0
 2020-03-25,Libya,1,0
+2020-03-26,Liechtenstein,4,0
 2020-03-25,Liechtenstein,1,0
 2020-03-24,Liechtenstein,0,0
 2020-03-23,Liechtenstein,10,0
@@ -3725,6 +3838,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-13,Liechtenstein,1,0
 2020-03-12,Liechtenstein,2,0
 2020-03-05,Liechtenstein,1,0
+2020-03-26,Lithuania,65,2
 2020-03-25,Lithuania,30,1
 2020-03-24,Lithuania,36,0
 2020-03-23,Lithuania,38,0
@@ -3802,6 +3916,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Lithuania,0,0
 2020-01-01,Lithuania,0,0
 2019-12-31,Lithuania,0,0
+2020-03-26,Luxembourg,234,0
 2020-03-25,Luxembourg,224,0
 2020-03-24,Luxembourg,77,0
 2020-03-23,Luxembourg,128,0
@@ -3881,11 +3996,13 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Luxembourg,0,0
 2020-01-01,Luxembourg,0,0
 2019-12-31,Luxembourg,0,0
+2020-03-26,Madagascar,0,0
 2020-03-25,Madagascar,2,0
 2020-03-24,Madagascar,14,0
 2020-03-23,Madagascar,0,0
 2020-03-22,Madagascar,0,0
 2020-03-21,Madagascar,3,0
+2020-03-26,Malaysia,172,4
 2020-03-25,Malaysia,106,1
 2020-03-24,Malaysia,212,4
 2020-03-23,Malaysia,123,6
@@ -3971,6 +4088,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Malaysia,0,0
 2020-01-01,Malaysia,0,0
 2019-12-31,Malaysia,0,0
+2020-03-26,Maldives,0,0
 2020-03-25,Maldives,0,0
 2020-03-24,Maldives,0,0
 2020-03-23,Maldives,0,0
@@ -3987,6 +4105,8 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-11,Maldives,2,0
 2020-03-09,Maldives,2,0
 2020-03-08,Maldives,2,0
+2020-03-26,Mali,2,0
+2020-03-26,Malta,9,0
 2020-03-25,Malta,13,0
 2020-03-24,Malta,17,0
 2020-03-23,Malta,17,0
@@ -4003,6 +4123,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-12,Malta,2,0
 2020-03-10,Malta,1,0
 2020-03-08,Malta,3,0
+2020-03-26,Mauritania,0,0
 2020-03-25,Mauritania,0,0
 2020-03-24,Mauritania,0,0
 2020-03-23,Mauritania,0,0
@@ -4014,12 +4135,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Mauritania,0,0
 2020-03-16,Mauritania,0,0
 2020-03-15,Mauritania,1,0
+2020-03-26,Mauritius,6,0
 2020-03-25,Mauritius,6,0
 2020-03-24,Mauritius,8,0
 2020-03-23,Mauritius,14,1
 2020-03-22,Mauritius,2,1
 2020-03-21,Mauritius,9,0
 2020-03-20,Mauritius,3,0
+2020-03-26,Mexico,0,0
 2020-03-25,Mexico,38,1
 2020-03-24,Mexico,51,2
 2020-03-23,Mexico,65,0
@@ -4098,6 +4221,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Mexico,0,0
 2020-01-01,Mexico,0,0
 2019-12-31,Mexico,0,0
+2020-03-26,Moldova,24,0
 2020-03-25,Moldova,16,0
 2020-03-24,Moldova,15,0
 2020-03-23,Moldova,14,0
@@ -4114,6 +4238,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-12,Moldova,1,0
 2020-03-11,Moldova,2,0
 2020-03-08,Moldova,1,0
+2020-03-26,Monaco,4,0
 2020-03-25,Monaco,4,0
 2020-03-24,Monaco,0,0
 2020-03-23,Monaco,5,0
@@ -4188,6 +4313,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Monaco,0,0
 2020-01-01,Monaco,0,0
 2019-12-31,Monaco,0,0
+2020-03-26,Mongolia,0,0
 2020-03-25,Mongolia,0,0
 2020-03-24,Mongolia,0,0
 2020-03-23,Mongolia,0,0
@@ -4198,6 +4324,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-18,Mongolia,3,0
 2020-03-15,Mongolia,0,0
 2020-03-10,Mongolia,1,0
+2020-03-26,Montenegro,6,0
 2020-03-25,Montenegro,20,0
 2020-03-24,Montenegro,6,0
 2020-03-23,Montenegro,7,0
@@ -4206,11 +4333,13 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-20,Montenegro,5,0
 2020-03-19,Montenegro,6,0
 2020-03-18,Montenegro,2,0
+2020-03-26,Montserrat,0,0
 2020-03-25,Montserrat,0,0
 2020-03-24,Montserrat,0,0
 2020-03-23,Montserrat,0,0
 2020-03-22,Montserrat,0,0
 2020-03-21,Montserrat,1,0
+2020-03-26,Morocco,55,1
 2020-03-25,Morocco,36,1
 2020-03-24,Morocco,19,0
 2020-03-23,Morocco,19,1
@@ -4227,12 +4356,15 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-12,Morocco,3,1
 2020-03-06,Morocco,1,0
 2020-03-03,Morocco,1,0
+2020-03-26,Mozambique,4,0
 2020-03-25,Mozambique,0,0
 2020-03-24,Mozambique,0,0
 2020-03-23,Mozambique,1,0
+2020-03-26,Myanmar,0,0
 2020-03-25,Myanmar,1,0
 2020-03-24,Myanmar,2,0
 2020-03-17,Myanmar,0,0
+2020-03-26,Namibia,1,0
 2020-03-25,Namibia,0,0
 2020-03-24,Namibia,0,0
 2020-03-23,Namibia,0,0
@@ -4244,6 +4376,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Namibia,0,0
 2020-03-16,Namibia,0,0
 2020-03-15,Namibia,2,0
+2020-03-26,Nepal,0,0
 2020-03-25,Nepal,1,0
 2020-03-24,Nepal,1,0
 2020-03-23,Nepal,0,0
@@ -4317,6 +4450,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Nepal,0,0
 2020-01-01,Nepal,0,0
 2019-12-31,Nepal,0,0
+2020-03-26,Netherlands,852,80
 2020-03-25,Netherlands,811,63
 2020-03-24,Netherlands,545,34
 2020-03-23,Netherlands,573,43
@@ -4403,17 +4537,13 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Netherlands,0,0
 2020-01-01,Netherlands,0,0
 2019-12-31,Netherlands,0,0
-2020-03-25,Netherlands_Antilles,5,0
-2020-03-24,Netherlands_Antilles,4,0
-2020-03-23,Netherlands_Antilles,0,0
-2020-03-22,Netherlands_Antilles,0,0
-2020-03-21,Netherlands_Antilles,4,0
-2020-03-20,Netherlands_Antilles,9,0
+2020-03-26,New_Caledonia,5,0
 2020-03-25,New_Caledonia,2,0
 2020-03-24,New_Caledonia,2,0
 2020-03-23,New_Caledonia,1,0
 2020-03-22,New_Caledonia,2,0
 2020-03-21,New_Caledonia,2,0
+2020-03-26,New_Zealand,94,0
 2020-03-25,New_Zealand,47,0
 2020-03-24,New_Zealand,40,0
 2020-03-23,New_Zealand,36,0
@@ -4491,6 +4621,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,New_Zealand,0,0
 2020-01-01,New_Zealand,0,0
 2019-12-31,New_Zealand,0,0
+2020-03-26,Nicaragua,0,0
 2020-03-25,Nicaragua,0,0
 2020-03-24,Nicaragua,0,0
 2020-03-23,Nicaragua,1,0
@@ -4498,11 +4629,13 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-21,Nicaragua,0,0
 2020-03-20,Nicaragua,0,0
 2020-03-19,Nicaragua,1,0
+2020-03-26,Niger,0,0
 2020-03-25,Niger,5,1
 2020-03-24,Niger,1,0
 2020-03-23,Niger,0,0
 2020-03-22,Niger,0,0
 2020-03-21,Niger,1,0
+2020-03-26,Nigeria,7,0
 2020-03-25,Nigeria,4,0
 2020-03-24,Nigeria,10,1
 2020-03-23,Nigeria,8,0
@@ -4578,6 +4711,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Nigeria,0,0
 2020-01-01,Nigeria,0,0
 2019-12-31,Nigeria,0,0
+2020-03-26,North_Macedonia,29,0
 2020-03-25,North_Macedonia,12,0
 2020-03-24,North_Macedonia,22,1
 2020-03-23,North_Macedonia,29,1
@@ -4655,6 +4789,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,North_Macedonia,0,0
 2020-01-01,North_Macedonia,0,0
 2019-12-31,North_Macedonia,0,0
+2020-03-26,Norway,350,2
 2020-03-25,Norway,195,2
 2020-03-24,Norway,239,1
 2020-03-23,Norway,206,0
@@ -4741,6 +4876,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Norway,0,0
 2020-01-01,Norway,0,0
 2019-12-31,Norway,0,0
+2020-03-26,Oman,15,0
 2020-03-25,Oman,18,0
 2020-03-24,Oman,11,0
 2020-03-23,Oman,3,0
@@ -4821,6 +4957,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Oman,0,0
 2020-01-01,Oman,0,0
 2019-12-31,Oman,0,0
+2020-03-26,Pakistan,66,1
 2020-03-25,Pakistan,104,1
 2020-03-24,Pakistan,103,1
 2020-03-23,Pakistan,138,2
@@ -4902,6 +5039,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Pakistan,0,0
 2020-01-01,Pakistan,0,0
 2019-12-31,Pakistan,0,0
+2020-03-26,Palestine,2,0
 2020-03-25,Palestine,1,0
 2020-03-24,Palestine,0,0
 2020-03-23,Palestine,7,0
@@ -4920,6 +5058,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-08,Palestine,3,0
 2020-03-07,Palestine,9,0
 2020-03-06,Palestine,7,0
+2020-03-26,Panama,0,0
 2020-03-25,Panama,98,0
 2020-03-24,Panama,32,3
 2020-03-23,Panama,68,0
@@ -4936,11 +5075,13 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-12,Panama,7,0
 2020-03-11,Panama,6,1
 2020-03-10,Panama,1,0
+2020-03-26,Papua_New_Guinea,0,0
 2020-03-25,Papua_New_Guinea,0,0
 2020-03-24,Papua_New_Guinea,0,0
 2020-03-23,Papua_New_Guinea,0,0
 2020-03-22,Papua_New_Guinea,0,0
 2020-03-21,Papua_New_Guinea,1,0
+2020-03-26,Paraguay,0,0
 2020-03-25,Paraguay,10,2
 2020-03-24,Paraguay,5,0
 2020-03-23,Paraguay,0,0
@@ -4955,6 +5096,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-13,Paraguay,1,0
 2020-03-11,Paraguay,4,0
 2020-03-08,Paraguay,1,0
+2020-03-26,Peru,142,1
 2020-03-25,Peru,21,2
 2020-03-24,Peru,32,0
 2020-03-23,Peru,45,0
@@ -4973,6 +5115,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-10,Peru,2,0
 2020-03-09,Peru,6,0
 2020-03-07,Peru,1,0
+2020-03-26,Philippines,84,3
 2020-03-25,Philippines,90,2
 2020-03-24,Philippines,82,8
 2020-03-23,Philippines,0,0
@@ -5055,6 +5198,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Philippines,0,0
 2020-01-01,Philippines,0,0
 2019-12-31,Philippines,0,0
+2020-03-26,Poland,150,4
 2020-03-25,Poland,152,2
 2020-03-24,Poland,115,1
 2020-03-23,Poland,98,2
@@ -5075,6 +5219,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-08,Poland,1,0
 2020-03-07,Poland,4,0
 2020-03-04,Poland,1,0
+2020-03-26,Portugal,633,10
 2020-03-25,Portugal,302,10
 2020-03-24,Portugal,460,9
 2020-03-23,Portugal,320,2
@@ -5098,6 +5243,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-05,Portugal,1,0
 2020-03-04,Portugal,2,0
 2020-03-03,Portugal,2,0
+2020-03-26,Qatar,11,0
 2020-03-25,Qatar,25,0
 2020-03-24,Qatar,7,0
 2020-03-23,Qatar,13,0
@@ -5180,6 +5326,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Qatar,0,0
 2020-01-01,Qatar,0,0
 2019-12-31,Qatar,0,0
+2020-03-26,Romania,144,2
 2020-03-25,Romania,186,4
 2020-03-24,Romania,143,5
 2020-03-23,Romania,66,2
@@ -5264,6 +5411,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Romania,0,0
 2020-01-01,Romania,0,0
 2019-12-31,Romania,0,0
+2020-03-26,Russia,163,0
 2020-03-25,Russia,57,0
 2020-03-24,Russia,0,0
 2020-03-23,Russia,132,0
@@ -5345,6 +5493,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Russia,0,0
 2020-01-01,Russia,0,0
 2019-12-31,Russia,0,0
+2020-03-26,Rwanda,1,0
 2020-03-25,Rwanda,4,0
 2020-03-24,Rwanda,17,0
 2020-03-23,Rwanda,2,0
@@ -5356,6 +5505,8 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Rwanda,0,0
 2020-03-16,Rwanda,4,0
 2020-03-15,Rwanda,1,0
+2020-03-26,Saint_Kitts_and_Nevis,2,0
+2020-03-26,Saint_Lucia,1,0
 2020-03-25,Saint_Lucia,0,0
 2020-03-24,Saint_Lucia,0,0
 2020-03-23,Saint_Lucia,0,0
@@ -5367,8 +5518,10 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Saint_Lucia,0,0
 2020-03-16,Saint_Lucia,0,0
 2020-03-15,Saint_Lucia,2,0
+2020-03-26,Saint_Vincent_and_the_Grenadines,0,0
 2020-03-25,Saint_Vincent_and_the_Grenadines,0,0
 2020-03-13,Saint_Vincent_and_the_Grenadines,1,0
+2020-03-26,San_Marino,21,0
 2020-03-25,San_Marino,0,1
 2020-03-24,San_Marino,36,0
 2020-03-23,San_Marino,0,0
@@ -5454,6 +5607,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,San_Marino,0,0
 2020-01-01,San_Marino,0,0
 2019-12-31,San_Marino,0,0
+2020-03-26,Saudi_Arabia,133,1
 2020-03-25,Saudi_Arabia,205,1
 2020-03-24,Saudi_Arabia,51,0
 2020-03-23,Saudi_Arabia,119,0
@@ -5474,6 +5628,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-08,Saudi_Arabia,2,0
 2020-03-06,Saudi_Arabia,4,0
 2020-03-03,Saudi_Arabia,1,0
+2020-03-26,Senegal,13,0
 2020-03-25,Senegal,7,0
 2020-03-24,Senegal,12,0
 2020-03-23,Senegal,11,0
@@ -5490,6 +5645,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-06,Senegal,1,0
 2020-03-05,Senegal,2,0
 2020-03-03,Senegal,1,0
+2020-03-26,Serbia,54,1
 2020-03-25,Serbia,27,0
 2020-03-24,Serbia,34,0
 2020-03-23,Serbia,39,0
@@ -5506,6 +5662,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-12,Serbia,13,0
 2020-03-11,Serbia,4,0
 2020-03-07,Serbia,1,0
+2020-03-26,Seychelles,0,0
 2020-03-25,Seychelles,0,0
 2020-03-24,Seychelles,0,0
 2020-03-23,Seychelles,0,0
@@ -5517,6 +5674,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Seychelles,1,0
 2020-03-16,Seychelles,1,0
 2020-03-15,Seychelles,2,0
+2020-03-26,Singapore,10,0
 2020-03-25,Singapore,49,0
 2020-03-24,Singapore,54,0
 2020-03-23,Singapore,23,0
@@ -5603,6 +5761,9 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Singapore,0,0
 2020-01-01,Singapore,0,0
 2019-12-31,Singapore,0,0
+2020-03-26,Sint_Maarten,1,0
+2020-03-03,Sint_Maarten,1,0
+2020-03-26,Slovakia,12,0
 2020-03-25,Slovakia,13,0
 2020-03-24,Slovakia,6,0
 2020-03-23,Slovakia,7,0
@@ -5621,6 +5782,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-09,Slovakia,2,0
 2020-03-08,Slovakia,2,0
 2020-03-07,Slovakia,1,0
+2020-03-26,Slovenia,48,1
 2020-03-25,Slovenia,38,2
 2020-03-24,Slovenia,28,0
 2020-03-23,Slovenia,31,0
@@ -5641,6 +5803,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-07,Slovenia,3,0
 2020-03-06,Slovenia,5,0
 2020-03-05,Slovenia,1,0
+2020-03-26,Somalia,0,0
 2020-03-25,Somalia,0,0
 2020-03-24,Somalia,0,0
 2020-03-23,Somalia,0,0
@@ -5650,6 +5813,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-19,Somalia,0,0
 2020-03-18,Somalia,0,0
 2020-03-17,Somalia,1,0
+2020-03-26,South_Africa,152,0
 2020-03-25,South_Africa,155,0
 2020-03-24,South_Africa,128,0
 2020-03-23,South_Africa,34,0
@@ -5668,6 +5832,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-09,South_Africa,1,0
 2020-03-08,South_Africa,1,0
 2020-03-06,South_Africa,1,0
+2020-03-26,South_Korea,104,5
 2020-03-25,South_Korea,100,6
 2020-03-24,South_Korea,76,7
 2020-03-23,South_Korea,64,9
@@ -5754,6 +5919,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,South_Korea,0,0
 2020-01-01,South_Korea,0,0
 2019-12-31,South_Korea,0,0
+2020-03-26,Spain,7937,738
 2020-03-25,Spain,6584,514
 2020-03-24,Spain,4517,462
 2020-03-23,Spain,3646,394
@@ -5840,6 +6006,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Spain,0,0
 2020-01-01,Spain,0,0
 2019-12-31,Spain,0,0
+2020-03-26,Sri_Lanka,0,0
 2020-03-25,Sri_Lanka,5,0
 2020-03-24,Sri_Lanka,10,0
 2020-03-23,Sri_Lanka,9,0
@@ -5917,6 +6084,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Sri_Lanka,0,0
 2020-01-01,Sri_Lanka,0,0
 2019-12-31,Sri_Lanka,0,0
+2020-03-26,Sudan,0,0
 2020-03-25,Sudan,1,0
 2020-03-24,Sudan,0,0
 2020-03-23,Sudan,0,0
@@ -5929,12 +6097,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Sudan,0,0
 2020-03-15,Sudan,0,1
 2020-03-14,Sudan,1,0
+2020-03-26,Suriname,0,0
 2020-03-25,Suriname,2,0
 2020-03-24,Suriname,1,0
 2020-03-23,Suriname,0,0
 2020-03-22,Suriname,4,0
 2020-03-21,Suriname,0,0
 2020-03-15,Suriname,1,0
+2020-03-26,Sweden,238,6
 2020-03-25,Sweden,256,11
 2020-03-24,Sweden,110,4
 2020-03-23,Sweden,160,1
@@ -6021,6 +6191,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Sweden,0,0
 2020-01-01,Sweden,0,0
 2019-12-31,Sweden,0,0
+2020-03-26,Switzerland,925,17
 2020-03-25,Switzerland,774,20
 2020-03-24,Switzerland,1044,6
 2020-03-23,Switzerland,894,4
@@ -6107,9 +6278,11 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Switzerland,0,0
 2020-01-01,Switzerland,0,0
 2019-12-31,Switzerland,0,0
+2020-03-26,Syria,0,0
 2020-03-25,Syria,0,0
 2020-03-24,Syria,0,0
 2020-03-23,Syria,1,0
+2020-03-26,Taiwan,19,0
 2020-03-25,Taiwan,21,0
 2020-03-24,Taiwan,30,0
 2020-03-23,Taiwan,12,0
@@ -6194,6 +6367,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Taiwan,0,0
 2020-01-01,Taiwan,0,0
 2019-12-31,Taiwan,0,0
+2020-03-26,Thailand,111,0
 2020-03-25,Thailand,107,0
 2020-03-24,Thailand,106,3
 2020-03-23,Thailand,122,0
@@ -6273,10 +6447,12 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Thailand,0,0
 2020-01-01,Thailand,0,0
 2019-12-31,Thailand,0,0
+2020-03-26,Timor_Leste,0,0
 2020-03-25,Timor_Leste,0,0
 2020-03-24,Timor_Leste,0,0
 2020-03-23,Timor_Leste,0,0
 2020-03-22,Timor_Leste,1,0
+2020-03-26,Togo,5,0
 2020-03-25,Togo,0,0
 2020-03-24,Togo,3,0
 2020-03-23,Togo,0,0
@@ -6289,6 +6465,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Togo,0,0
 2020-03-15,Togo,0,0
 2020-03-07,Togo,1,0
+2020-03-26,Trinidad_and_Tobago,3,1
 2020-03-25,Trinidad_and_Tobago,6,0
 2020-03-24,Trinidad_and_Tobago,1,0
 2020-03-23,Trinidad_and_Tobago,1,0
@@ -6302,6 +6479,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-15,Trinidad_and_Tobago,0,0
 2020-03-14,Trinidad_and_Tobago,1,0
 2020-03-13,Trinidad_and_Tobago,1,0
+2020-03-26,Tunisia,59,2
 2020-03-25,Tunisia,25,0
 2020-03-24,Tunisia,14,0
 2020-03-23,Tunisia,15,2
@@ -6319,6 +6497,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-11,Tunisia,3,0
 2020-03-10,Tunisia,1,0
 2020-03-03,Tunisia,1,0
+2020-03-26,Turkey,561,15
 2020-03-25,Turkey,343,7
 2020-03-24,Turkey,293,7
 2020-03-23,Turkey,289,9
@@ -6331,11 +6510,14 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Turkey,16,0
 2020-03-13,Turkey,1,0
 2020-03-12,Turkey,1,0
+2020-03-26,Turks_and_Caicos_islands,0,0
 2020-03-25,Turks_and_Caicos_islands,1,0
+2020-03-26,Uganda,5,0
 2020-03-25,Uganda,0,0
 2020-03-24,Uganda,8,0
 2020-03-23,Uganda,0,0
 2020-03-22,Uganda,1,0
+2020-03-26,Ukraine,29,1
 2020-03-25,Ukraine,11,0
 2020-03-24,Ukraine,26,0
 2020-03-23,Ukraine,6,0
@@ -6348,6 +6530,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-16,Ukraine,0,0
 2020-03-13,Ukraine,2,0
 2020-03-04,Ukraine,1,0
+2020-03-26,United_Arab_Emirates,85,0
 2020-03-25,United_Arab_Emirates,50,0
 2020-03-24,United_Arab_Emirates,45,0
 2020-03-23,United_Arab_Emirates,0,0
@@ -6428,6 +6611,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,United_Arab_Emirates,0,0
 2020-01-01,United_Arab_Emirates,0,0
 2019-12-31,United_Arab_Emirates,0,0
+2020-03-26,United_Kingdom,1452,0
 2020-03-25,United_Kingdom,1427,87
 2020-03-24,United_Kingdom,967,54
 2020-03-23,United_Kingdom,665,48
@@ -6514,6 +6698,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,United_Kingdom,0,0
 2020-01-01,United_Kingdom,0,0
 2019-12-31,United_Kingdom,0,0
+2020-03-26,United_Republic_of_Tanzania,0,0
 2020-03-25,United_Republic_of_Tanzania,0,0
 2020-03-24,United_Republic_of_Tanzania,0,0
 2020-03-23,United_Republic_of_Tanzania,6,0
@@ -6523,6 +6708,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-19,United_Republic_of_Tanzania,2,0
 2020-03-18,United_Republic_of_Tanzania,0,0
 2020-03-17,United_Republic_of_Tanzania,1,0
+2020-03-26,United_States_of_America,13963,249
 2020-03-25,United_States_of_America,8789,211
 2020-03-24,United_States_of_America,11236,119
 2020-03-23,United_States_of_America,8459,131
@@ -6609,8 +6795,10 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,United_States_of_America,0,0
 2020-01-01,United_States_of_America,0,0
 2019-12-31,United_States_of_America,0,0
+2020-03-26,United_States_Virgin_Islands,0,0
 2020-03-25,United_States_Virgin_Islands,0,0
 2020-03-24,United_States_Virgin_Islands,17,0
+2020-03-26,Uruguay,28,0
 2020-03-25,Uruguay,27,0
 2020-03-24,Uruguay,4,0
 2020-03-23,Uruguay,23,0
@@ -6622,6 +6810,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Uruguay,21,0
 2020-03-16,Uruguay,2,0
 2020-03-15,Uruguay,6,0
+2020-03-26,Uzbekistan,10,0
 2020-03-25,Uzbekistan,6,0
 2020-03-24,Uzbekistan,3,0
 2020-03-23,Uzbekistan,13,0
@@ -6632,6 +6821,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-18,Uzbekistan,8,0
 2020-03-17,Uzbekistan,2,0
 2020-03-16,Uzbekistan,6,0
+2020-03-26,Venezuela,15,0
 2020-03-25,Venezuela,7,0
 2020-03-24,Venezuela,48,0
 2020-03-23,Venezuela,0,0
@@ -6643,6 +6833,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-17,Venezuela,18,0
 2020-03-16,Venezuela,5,0
 2020-03-15,Venezuela,10,0
+2020-03-26,Vietnam,14,0
 2020-03-25,Vietnam,11,0
 2020-03-24,Vietnam,5,0
 2020-03-23,Vietnam,24,0
@@ -6725,6 +6916,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-01-02,Vietnam,0,0
 2020-01-01,Vietnam,0,0
 2019-12-31,Vietnam,0,0
+2020-03-26,Zambia,9,0
 2020-03-25,Zambia,0,0
 2020-03-24,Zambia,0,0
 2020-03-23,Zambia,1,0
@@ -6732,6 +6924,7 @@ DateRep,Countries and territories,Cases,Deaths
 2020-03-21,Zambia,0,0
 2020-03-20,Zambia,0,0
 2020-03-19,Zambia,2,0
+2020-03-26,Zimbabwe,1,0
 2020-03-25,Zimbabwe,0,0
 2020-03-24,Zimbabwe,0,1
 2020-03-23,Zimbabwe,0,0

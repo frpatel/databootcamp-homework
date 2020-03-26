@@ -120,6 +120,26 @@ df_full_data = pd.read_csv('data/full_data.csv')
 df_full_data = df_full_data[['date', 'location', 'new_cases', 'new_deaths', 'total_cases', 'total_deaths']]
 df_full_data.to_sql(name='full_data', con=engine, if_exists='replace', index=False)
 
+tsx = pd.read_csv('data/GSPTSE.csv')
+dji = pd.read_csv('data/DJI.csv')
+
+tsx = tsx[['Date', 'Close']]
+tsx = tsx.rename(columns={"Close":"tsx_Closing"})
+
+dji = dji[['Date', 'Close']]
+dji = dji.rename(columns={"Close":"dji_Closing"})
+
+merge_close = tsx.merge(dji, how="inner", on="Date")
+
+x_axis = merge_close['Date'].to_numpy()
+tsx_closing = merge_close['tsx_Closing'].to_numpy()
+dji_closing = merge_close['dji_Closing'].to_numpy()
+plt.figure(figsize=(15,8))
+plt.xticks(rotation=90, horizontalalignment='center', fontweight='light', fontsize='large')
+plt.title('DJI and TSX Closing after COVID pendemic', fontweight='bold', fontsize='x-large')
+tsx_handle, = plt.plot(x_axis, tsx_closing, marker='o', color='blue', label='TSX')
+dji_handle, = plt.plot(x_axis, dji_closing, marker='o', color='red', label='DJI')
+plt.savefig('static/images/tsx-dji-closing.png')
 # current_date = date.today()
 # formatted_date = current_date.strftime("%Y-%m-%d")
 # covid_data_url = "https://www.ecdc.europa.eu/sites/default/files/documents/COVID-19-geographic-disbtribution-worldwide-"+formatted_date+".xlsx"
@@ -184,4 +204,4 @@ def world_data():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
